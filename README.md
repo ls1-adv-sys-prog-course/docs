@@ -47,7 +47,7 @@ This course consists of programming assignments that will help students dig deep
 - Preliminary meeting: Feb 1st (Thu), 2024 10:00 AM CET online (zoom)
     - [Zoom link](https://tum-conf.zoom-x.de/j/62687139904?pwd=SFNmQUIvT0tRaHlDaVYrN3l5bzJVQT09)
     - Meeting ID: 626 8713 9904, Passcode: 0
-    - [Slide](./slides/[adv-sys-prog] Preliminary meeting.pdf)
+    - [Slide](./slides/Preliminary_meeting.pdf)
 - Q&A session: Weekly on Thursday from 03:00 PM to 04:00 PM CET
     - Place: TBA
     - If the day is a holiday, we will have the session on the previous day.
