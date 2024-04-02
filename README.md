@@ -58,12 +58,12 @@ Please refer to the respective task repositories (that are released on the publi
 The schedule may change. **All deadlines are at 15:00 (CEST).**
 
 
-| Task            | Published on | Deadline   | Points | Slide | Video |
-|-----------------|--------------|------------|--------|-------|-------|
-| Containers      | 2024-04-15   | 2024-05-06 | 40     |       |       |
-| Unikernels      | 2024-05-06   | 2024-05-27 | 40     |       |       |
-| Hypervisors     | 2024-05-27   | 2024-06-17 | 40     |       |       |
-| HW Accelaration | 2024-06-17   | 2024-07-08 | 40     |       |       |
+| Task                                                                               | Published on | Deadline   | Points | Slide                                   | Video                                                                                  |
+|------------------------------------------------------------------------------------|--------------|------------|--------|-----------------------------------------|----------------------------------------------------------------------------------------|
+| [Containers](https://github.com/ls1-adv-sys-prog-course/task1-containers)          | 2024-04-15   | 2024-05-06 | 40     | [slide](./slides/01-containers.pdf)     | [background](https://youtu.be/GMs3kLteZvk), [assignment](https://youtu.be/INyb4Rj073U) |
+| Unikernels                                                                         | 2024-05-06   | 2024-05-27 | 40     |                                         |                                                                                        |
+| Hypervisors                                                                        | 2024-05-27   | 2024-06-17 | 40     |                                         |                                                                                        |
+| HW Accelaration                                                                    | 2024-06-17   | 2024-07-08 | 40     |                                         |                                                                                        |
 
 
 Note that
