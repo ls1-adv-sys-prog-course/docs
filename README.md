@@ -14,7 +14,6 @@
     - *The students must successfully finish the following course beforehand.*
         - Practical Lab: Systems Programming (2023-)
         - Practical Lab: Advanced Systems Programming in C/Rust (offered in 2021-2023)
-    - *Please fill the [form](https://collab.dvb.bayern/display/TUMcsel/Practical+course%3A+Advanced+Systems+Programming+--+SoSe+2024)* if you apply for this course
     - Preferred knowledge or equivalent to the lectures
         - Fundamentals of Programming (IN0002)
         - Introduction to Computer Architecture (IN0004)
@@ -49,7 +48,8 @@ This course consists of programming assignments that will help students dig deep
     - Meeting ID: 626 8713 9904, Passcode: 0
     - [Slide](./slides/Preliminary_meeting.pdf)
 - Q&A session: Weekly on Thursday from 03:00 PM to 04:00 PM CET
-    - Place: TBA
+    - [Zoom link](https://tum-conf.zoom-x.de/j/61015624576?pwd=WE92aDRrR09UZkp2bUtGeU5Lbi9UZz09)
+    - Meeting ID: 610 1562 4576, Passcode: 534975
     - If the day is a holiday, we will have the session on the previous day.
 
 ## Tasks
