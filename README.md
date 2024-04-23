@@ -62,8 +62,8 @@ The schedule may change. **All deadlines are at 15:00 (CEST).**
 |------------------------------------------------------------------------------------|--------------|------------|--------|-----------------------------------------|----------------------------------------------------------------------------------------|
 | [Containers](https://github.com/ls1-adv-sys-prog-course/task1-containers)          | 2024-04-15   | 2024-05-06 | 40     | [slide](./slides/01-containers.pdf)     | [background](https://youtu.be/GMs3kLteZvk), [assignment](https://youtu.be/INyb4Rj073U) |
 | Unikernels                                                                         | 2024-05-06   | 2024-05-27 | 40     | [slide](./slides/02-unikernels.pdf)     | [background](https://youtu.be/ci2J0wOu-IY)                                             |
-| Hypervisors                                                                        | 2024-05-27   | 2024-06-17 | 40     |                                         |                                                                                        |
-| HW Accelaration                                                                    | 2024-06-17   | 2024-07-08 | 40     |                                         |                                                                                        |
+| Hypervisors                                                                        | 2024-05-27   | 2024-06-17 | 40     |                                         | [background](https://youtu.be/mdItNhzl44g)                                             |
+| HW Accelaration                                                                    | 2024-06-17   | 2024-07-08 | 40     |                                         | [background](https://youtu.be/uc4BeZIMdoU)                                             |
 Note that
 - 100% points lost if private tests detect cheating or we find a solution tries to game the system (modifying test scripts, etc.)
 - 50% points lost if normal private tests fail
