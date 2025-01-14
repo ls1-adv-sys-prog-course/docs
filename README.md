@@ -6,7 +6,7 @@
 
 ## *Prerequisites and Important Notes*
 - *The students are required to successfully finish the following course offered by our group beforehand.*
-    - Practical Lab: Systems Programming (2023-)
+    - [Practical Lab: Systems Programming (2023-)](https://github.com/ls1-sys-prog-course/docs)
     - Practical Lab: Advanced Systems Programming in C/Rust (offered in 2021-2023)
         - This course is equivalent to the current "Practical Lab: Systems Programming" and different from this course
 - *Please Submit your grade to the following form by the end of the matching application period.*
