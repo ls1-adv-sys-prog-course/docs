@@ -10,7 +10,7 @@
     - Practical Lab: Advanced Systems Programming in C/Rust (offered in 2021-2023)
         - This course is equivalent to the current "Practical Lab: Systems Programming" and different from this course
 - *Please Submit your grade to the following form by the end of the matching application period.*
-    - Link to the form: *Provided by the preliminary meeting*
+    - [Link to the form](https://collab.dvb.bayern/display/TUMcsel/Practical+course%3A+Advanced+Systems+Programming+--+SoSe+2025)
 - Please also apply for the matching in the matching system.
 - Without submitting the grade, you will not be matched to the course.
 
