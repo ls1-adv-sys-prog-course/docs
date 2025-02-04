@@ -52,7 +52,7 @@ This course consists of programming assignments that will help students dig deep
 - Preliminary meeting: Feb 4th (Tue), 2025 10:00 AM CET online (zoom)
     - [Zoom link](https://tum-conf.zoom-x.de/j/64145518301?pwd=6D3J01pldvHkhhUsL6SSGebA69ax0I.1)
     - Meeting ID: 641 4551 8301, Passcode: 076582
-    - [Slide](./slides/00-Preliminary meeting.pdf)
+    - [Slide](./slides/00-preliminary_meeting.pdf)
 - Q&A session: Weekly on Thursday from 03:00 PM to 04:00 PM CET
     - [Zoom link](https://tum-conf.zoom-x.de/j/64650630465?pwd=wmi18q2eU86vPm79ibM6riBvsSkD8V.1)
     - Meeting ID: 646 5063 0465, Passcode: 847916
